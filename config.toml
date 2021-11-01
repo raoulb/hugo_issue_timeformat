@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+
+languageCode = "de-de"
+defaultContentLanguage = "de"
+
+timeZone = "UTC"
+
+title = "German Weekday Name Format Test"
